@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.exe
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.deps.json
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.runtimeconfig.json
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.dll
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\bin\Debug\netcoreapp3.1\Final_Project.pdb
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.Form1.resources
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.dll
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.pdb
+C:\Users\lenovo\source\repos\Final_Project\Final_Project\obj\Debug\netcoreapp3.1\Final_Project.genruntimeconfig.cache
